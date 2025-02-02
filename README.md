@@ -33,14 +33,6 @@ A web application for making and managing restaurant reservations using the MERN
    ```
 
 ## API Endpoints
-- `POST /api/auth/register` - Register
-- `POST /api/auth/login` - Login
 - `POST /api/reservations` - Make a reservation
 - `GET /api/reservations` - Get reservations
-
-## License
-MIT License.
-
-## Contributors
-- Your Name ([GitHub](https://github.com/your-profile))
 
